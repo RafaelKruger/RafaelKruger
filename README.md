@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelkruger&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=3e89bb&style=flat" alt="rafaelkruger" /> </p>
 
-- 🔭 Atualmente estou trabalhando com [HTML, CSS e JS](https://github.com/RafaelKruger)
+- 🔭 Meu mais recente projeto é uma réplica de uma antiga versão da [tela de login do Facebook](https://github.com/RafaelKruger/facebook-tela_login_antiga)
 
-- 💻 Estou estudando **JavaScript, React, AWS**.
+- 💻 Estou estudando **JavaScript, React**.
 
 - 💻 Estou cursando **Gerenciamento de Projetos (Google + Coursera + CIEE)**.
 
